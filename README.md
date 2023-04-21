@@ -1,1 +1,1 @@
-# erick-instagram-API
+# Erick-instagram-API
